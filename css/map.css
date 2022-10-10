@@ -1,0 +1,15 @@
+#project { height: 90vh; }
+
+
+#coordinate{
+	position: absolute;
+	left:  40%;
+	background: #fff;
+	z-index: 99999;
+	bottom: 0;
+	padding: 3px;
+}
+
+.leaflet-bar a {
+    background-color: #2bb9af;
+    }
